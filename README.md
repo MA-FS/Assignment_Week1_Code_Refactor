@@ -21,27 +21,27 @@ These changes included;
 
 *Original HTML*
 
-![Original HTML Code.](./Assets/images/html-before.png)
+![Original HTML Code.](https://github.com/MA-FS/Assignment_Week1_Code_Refactor/blob/main/assets/images/html-before.png?raw=true)
 
 *Modified HTML including semantics & alt attributes*
 
-![Modified HTML Code.](./Assets/images/html-semantics.png)
+![Modified HTML Code.](https://github.com/MA-FS/Assignment_Week1_Code_Refactor/blob/main/assets/images/html-semantics.png?raw=true)
 
 ### **CSS Consolidation & Comments**
 
 *Original CSS*
 
-![Original CSS Code.](./Assets/images/css-before.png)
+![Original CSS Code.](https://github.com/MA-FS/Assignment_Week1_Code_Refactor/blob/main/assets/images/css-before.png?raw=true)
 
 *Modified CSS including comments and removal of 56 lines of code*
 
-![Original CSS Code.](./Assets/images/css-consolidation.png)
+![Modified CSS Code.](https://github.com/MA-FS/Assignment_Week1_Code_Refactor/blob/main/assets/images/css-consolidation.png?raw=true)
 
 ### **Result**
 
 *Resulting webpage after modifications*
 
-![Original CSS Code.](./Assets/images/01-html-css-git-homework-complete.png)
+![Completed Website](https://github.com/MA-FS/Assignment_Week1_Code_Refactor/blob/main/assets/images/01-html-css-git-homework-complete.png?raw=true)
 
 ### **GitHub Information**
 
